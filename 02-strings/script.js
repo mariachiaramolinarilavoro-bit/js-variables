@@ -13,6 +13,9 @@ console.log(Name)
 const number = 7;
 const text = 'Sette';
 const bool = true;
+console.log(number);
+console.log(text);
+console.log(bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
